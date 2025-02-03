@@ -1,6 +1,6 @@
 export const CV: React.FC = () => {
     const handleDownload = () => {
-        window.open("public/assets/Carl Jonsén - CV English.pdf", "_blank");
+        window.open("/public/assets/Carl Jonsén - CV English.pdf", "_blank");
       };
     return (
       <section id="cv" className="text-center">

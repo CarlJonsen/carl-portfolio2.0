@@ -7,7 +7,7 @@ export const Projects: React.FC = () => (
       <div className="row">
           <div className="col-md-6 mb-4">
               <div className="card">
-                  <img src="public/assets/shotguns game.png" className="card-img-top" alt="Shotgun Game"></img>
+                  <img src="/public/assets/shotguns game.png" className="card-img-top" alt="Shotgun Game"></img>
                   <div className="card-body">
                       <h5 className="card-title">Shotgun</h5>
                       <p className="card-text">A fun one-player game where you gamble against the computer. Built with C# and Windows Forms.</p>
@@ -17,7 +17,7 @@ export const Projects: React.FC = () => (
           </div>
           <div className="col-md-6 mb-4">
               <div className="card">
-                  <img src="public/assets/Blocket applikation.png" className="card-img-top" alt="Ebay in Windows Forms"></img>
+                  <img src="/public/assets/Blocket applikation.png" className="card-img-top" alt="Ebay in Windows Forms"></img>
                   <div className="card-body">
                       <h5 className="card-title">Ebay in Windows Forms</h5>
                       <p className="card-text">A Windows Forms application simulating an e-commerce platform, built with C# and SQL.</p>
